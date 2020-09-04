@@ -1,0 +1,8 @@
+com\springboot\bean\User.class
+com\springboot\dao\UserDao.class
+com\springboot\controller\UserController.class
+com\springboot\service\UserService.class
+com\springboot\service\impl\UserServiceImpl.class
+com\springboot\App.class
+com\springboot\dao\CommonDao.class
+com\springboot\bean\BaseBean.class

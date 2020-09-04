@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "mybatis_config_file",
+      "type": "java.lang.String",
+      "description": "Description for mybatis_config_file."
+  }
+] }
